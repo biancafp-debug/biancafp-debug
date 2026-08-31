@@ -3,7 +3,7 @@
 
 🎓 I’m a first-year Computer Science student at the University of Northampton.
 
-👾 I enjoy combing coding with creativity
+👾 I enjoy combining coding with creativity
 
 🎮 Game Development | Web Development | Software Engineering
 
