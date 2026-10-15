@@ -1,7 +1,7 @@
 # Hi, I’m Bianca! ⭐
 
 
-🎓 I’m a first-year Computer Science student at the University of Northampton.
+🎓 I’m a second-year Computer Science student at the University of Northampton.
 
 👾 I enjoy combining coding with creativity
 
